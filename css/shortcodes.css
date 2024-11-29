@@ -833,7 +833,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 50%;
-  background-color: #ae3ebc;
+  background-color: #711112;
 }
 .ttm-btn-play:after {
   z-index: 1;
@@ -1652,7 +1652,7 @@ body {
 }
 .featured-imagebox-team.style2:hover .ttm-team-box-view-overlay {
   bottom: 0;
-  background-color: #ae3ebc;
+  background-color: #711112;
 }
 
 /* post */
@@ -1965,7 +1965,7 @@ body {
   left: 1px;
   top: 0;
   width: 4px;
-  background-color: #ae3ebc;
+  background-color: #711112;
 }
 .testimonials .testimonial-content .testimonial-caption:after {
   content: "";

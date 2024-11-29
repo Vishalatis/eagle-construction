@@ -46,7 +46,7 @@
 }
 .theme-color {
   width: 25%;
-  background: #ae3ebc;
+  background: #711112;
   display: block;
   float: left;
   height: 45px;
@@ -86,7 +86,7 @@
   border-top: 1px dotted #b2b2b2;
 }
 .theme-color.default-color {
-  background: #ae3ebc;
+  background: #711112;
 }
 .theme-color.theme-color1 {
   background: #fab702;

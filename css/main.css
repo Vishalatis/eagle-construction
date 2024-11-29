@@ -1415,7 +1415,7 @@ a.checkout-button:hover,
 .ttm-video-btn .ttm-btn-play,
 .ttm-btn-play:after,
 .ttm-btn-play:before {
-  border-color: #ae3ebc;
+  border-color: #711112;
 }
 
 /** 4.Grey-color **/
@@ -1827,7 +1827,7 @@ ul li .icon-box.icon-style-border i {
   position: relative;
 }
 .site-branding img {
-  max-height: 60px;
+  max-height: 70px;
 }
 
 /** SiteNavigation(Menu) **/
@@ -2174,7 +2174,7 @@ ul li .icon-box.icon-style-border i {
   margin-bottom: 25px;
 }
 .footer-logo img {
-  max-height: 45px;
+  max-height: 80px;
   width: auto;
 }
 .widget ul {
